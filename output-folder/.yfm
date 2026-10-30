@@ -1,0 +1,21 @@
+allowHtml: true
+lang: ru
+langs: ['en', 'ru']
+
+pdf:
+  enabled: true
+
+interface:
+  toc-header: false
+
+vcs: true
+mtimes: true
+authors: true
+
+breaks: true
+linkify: true
+
+search:
+  provider: local
+  tolerance: 2
+  confidense: phrased

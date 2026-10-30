@@ -1,0 +1,5 @@
+blocks:
+- type: basic-card
+  title: Basic card
+  description: Description
+  text: Text

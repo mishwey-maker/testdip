@@ -1,0 +1,1 @@
+self.registry={"ru/index.html":{"title":"Welcome","content":"This is your documentation project created with Diplodoc.\nGetting started\nEdit this file or add new pages and update toc.yaml.","keywords":[],"tags":[]}}

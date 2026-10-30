@@ -1,0 +1,11 @@
+title: doc-folder
+href: index.md
+navigation:
+  header:
+    rightItems:
+      - type: controls
+items:
+  - name: Overview
+    href: index.md
+  - name: Page Constructor
+    href: pc.yaml

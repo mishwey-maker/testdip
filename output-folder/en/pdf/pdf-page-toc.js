@@ -1,0 +1,1 @@
+window.__DATA__.data.toc = {"title":"doc-folder","href":"#en_index","navigation":{"header":{"rightItems":[{"type":"controls"}]}},"items":[{"name":"Overview","href":"#en_index","id":"d36c7d6f-6c80-431e-b4e0-75efc5088a1e"},{"name":"Page Constructor","href":"#en_pc","id":"0dc85b98-f774-4639-84f0-3fc679cc7e80"}],"path":"en/toc.yaml","id":"bb6f7418-a499-48aa-bb4c-7df5d297d170"};
